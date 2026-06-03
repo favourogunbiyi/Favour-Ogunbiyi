@@ -1,10 +1,8 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Favour Ogunbiyi 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=spacemono+Code&weight=500&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=750&lines=Data+Analyst+%E2%86%92+Data+Engineer;Analysed+1%2C470+employees+%C2%B7+surfaced+attrition+risk;Mapped+18%2C890+transactions+%C2%B7+found+the+pattern;Excel+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+dbt+(building);Building+pipelines%2C+not+just+dashboards;Async-ready+%C2%B7+deadline-sharp+%C2%B7+remote-first" alt="Typing animation" />
+</p>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
