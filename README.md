@@ -1,4 +1,4 @@
-## Hi there, I'm Favour Ogunbiyi 👋
+# Hi there, I'm Favour Ogunbiyi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=spacemono+Code&weight=500&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=750&lines=Data+Analyst+%E2%86%92+Data+Engineer;Analysed+1%2C470+employees+%C2%B7+surfaced+attrition+risk;Mapped+18%2C890+transactions+%C2%B7+found+the+pattern;Excel+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+dbt+(building);Building+pipelines%2C+not+just+dashboards;Async-ready+%C2%B7+deadline-sharp+%C2%B7+remote-first" alt="Typing animation" />
